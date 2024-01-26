@@ -1,4 +1,4 @@
-Credit EDA Case Study Analysis Project
+# Credit EDA Case Study Analysis Project
 Objective:
 The goal of this case study is to perform an Exploratory Data Analysis on a credit-related dataset to derive meaningful insights that can help in understanding the factors influencing credit approval and identify patterns within the data.
 
